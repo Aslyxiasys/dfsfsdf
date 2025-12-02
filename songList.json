@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "anime": "3-nen Z-gumi Ginpachi-sensei - Opening 1",
-        "name": "\"Sakurakaze\" by BotchiBoromaru",
-        "video": "https://eudist.animemusicquiz.com/1fqpwuwxiyzu0565.webm",
+        "anime": "Yu-Gi-Oh! Duel Monsters - Opening 1 (Dub)",
+        "name": "\"Yu-Gi-Oh! Theme\" by Wayne Sharpe & John Siegler",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": "https://eudist.animemusicquiz.com/r8h098.mp3"
     },
     {
@@ -12,6 +12,33 @@
         "name": "\"Sugary Story\" by AVAM",
         "video": "https://eudist.animemusicquiz.com/ez32ifg55ln30cqu.webm",
         "mp3": "https://eudist.animemusicquiz.com/ld62ej.mp3"
-    }
-   
+    },
+     {
+        "id": 3,
+        "anime": "Akujiki Reijou to Kyouketsu Koushaku - Opening 1",
+        "name": "\"Sugary Story\" by AVAM",
+        "video": "https://eudist.animemusicquiz.com/ez32ifg55ln30cqu.webm",
+        "mp3": "https://eudist.animemusicquiz.com/ld62ej.mp3"
+    },
+     {
+        "id": 4,
+        "anime": "Akujiki Reijou to Kyouketsu Koushaku - Opening 1",
+        "name": "\"Sugary Story\" by AVAM",
+        "video": "https://eudist.animemusicquiz.com/ez32ifg55ln30cqu.webm",
+        "mp3": "https://eudist.animemusicquiz.com/ld62ej.mp3"
+    },
+     {
+        "id": 5,
+        "anime": "Akujiki Reijou to Kyouketsu Koushaku - Opening 1",
+        "name": "\"Sugary Story\" by AVAM",
+        "video": "https://eudist.animemusicquiz.com/ez32ifg55ln30cqu.webm",
+        "mp3": "https://eudist.animemusicquiz.com/ld62ej.mp3"
+    },
+     {
+        "id": 6,
+        "anime": "Akujiki Reijou to Kyouketsu Koushaku - Opening 1",
+        "name": "\"Sugary Story\" by AVAM",
+        "video": "https://eudist.animemusicquiz.com/ez32ifg55ln30cqu.webm",
+        "mp3": "https://eudist.animemusicquiz.com/ld62ej.mp3"
+    }   
 ]
