@@ -1,44 +1,343 @@
 [
     {
         "id": 1,
-        "anime": "Yu-Gi-Oh! Duel Monsters - Opening 1 (Dub)",
-        "name": "\"Yu-Gi-Oh! Theme\" by Wayne Sharpe & John Siegler",
-        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
-        "mp3": "https://eudist.animemusicquiz.com/r8h098.mp3"
+        "Character": "March 7th (Preservation)",
+        "name": "Let's Take a Photo!",
+        "video": "https://youtu.be/lpIgB_IPeTM?si=x5RsmlmcudxrvYb0",
+        
     },
     {
         "id": 2,
-        "anime": "Akujiki Reijou to Kyouketsu Koushaku - Opening 1",
-        "name": "\"Sugary Story\" by AVAM",
-        "video": "https://eudist.animemusicquiz.com/ez32ifg55ln30cqu.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ld62ej.mp3"
+        "Character": "Serval",
+        "name": "Let's Take a Photo!",
+        "video": "https://youtu.be/O6HdjmUIuSY?si=JH0ZpUvmKxmhLT2w",
+        
     },
-     {
+    {
         "id": 3,
-        "anime": "Akujiki Reijou to Kyouketsu Koushaku - Opening 1",
-        "name": "\"Sugary Story\" by AVAM",
-        "video": "https://eudist.animemusicquiz.com/ez32ifg55ln30cqu.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ld62ej.mp3"
+        "Character": "Bailu",
+        "name": "Let's Take a Photo!",
+        "video": "https://youtu.be/g2ciwy6nxTY?si=KS3qAOLUbCWtqVE9",
+        
     },
-     {
+    {
         "id": 4,
-        "anime": "Akujiki Reijou to Kyouketsu Koushaku - Opening 1",
-        "name": "\"Sugary Story\" by AVAM",
-        "video": "https://eudist.animemusicquiz.com/ez32ifg55ln30cqu.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ld62ej.mp3"
+        "Character": "Yanqing",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
     },
-     {
+    {
         "id": 5,
-        "anime": "Akujiki Reijou to Kyouketsu Koushaku - Opening 1",
-        "name": "\"Sugary Story\" by AVAM",
-        "video": "https://eudist.animemusicquiz.com/ez32ifg55ln30cqu.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ld62ej.mp3"
+        "Character": "Himeko",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
     },
-     {
+    {
         "id": 6,
-        "anime": "Akujiki Reijou to Kyouketsu Koushaku - Opening 1",
-        "name": "\"Sugary Story\" by AVAM",
-        "video": "https://eudist.animemusicquiz.com/ez32ifg55ln30cqu.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ld62ej.mp3"
-    }   
+        "Character": "Gepard",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 7,
+        "Character": "Seele",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 8,
+        "Character": "Jing Yuan",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 9,
+        "Character": "Silver Wolf",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 10,
+        "Character": "Luocha",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 11,
+        "Character": "Blade",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 12,
+        "Character": "Kafka",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 13,
+        "Character": "Dan Heng - Imbibitor Lunae",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 14,
+        "Character": "Fu Xuan",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 15,
+        "Character": "Jingliu",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 16,
+        "Character": "Topaz & Numby",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 17,
+        "Character": "Argenti",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 18,
+        "Character": "Huohuo",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 19,
+        "Character": "Ruan Mei",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 20,
+        "Character": "Dr. Ratio",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 21,
+        "Character": "Black Swan",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 22,
+        "Character": "Sparkle (Hanabi)",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 23,
+        "Character": "Acheron (Yomi)",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 24,
+        "Character": "Aventurine",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 25,
+        "Character": "Robin",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 26,
+        "Character": "Boothill",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 27,
+        "Character": "Firefly",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 28,
+        "Character": "Jade",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 29,
+        "Character": "Yunli",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 30,
+        "Character": "Jiaoqiu",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 31,
+        "Character": "Feixiao",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 32,
+        "Character": "Lingsha",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 33,
+        "Character": "Rappa",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 34,
+        "Character": "Sunday",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 35,
+        "Character": "Fugue",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 36,
+        "Character": "The Herta",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 37,
+        "Character": "Aglaea",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 38,
+        "Character": "Tribbie",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 39,
+        "Character": "Mydei",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 40,
+        "Character": "Castorice",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 41,
+        "Character": "Anaxa",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 42,
+        "Character": "Hyacine",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 43,
+        "Character": "Cipher",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 44,
+        "Character": "Phainon",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    {
+        "id": 45,
+        "Character": "Hysilens",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },{
+        "id": 46,
+        "Character": "Cerydra",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },{
+        "id": 47,
+        "Character": "Evernight",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },{
+        "id": 48,
+        "Character": "Dan Heng - Permansor Terrae",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },{
+        "id": 49,
+        "Character": "Cyrene",
+        "name": "Let's Take a Photo!",
+        "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
+        
+    },
+    
+  
 ]
