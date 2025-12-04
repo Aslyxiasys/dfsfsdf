@@ -1,5 +1,5 @@
 const config = {
-    localStoragePrefix: "test-run-hoyo",
-    title: "HSR Opening Ranking",
+    localStoragePrefix: "test-test-run-hoyo",
+    title: "HSR Opening Ranking Test",
     description: "HSR Opening Ranking"
 };
