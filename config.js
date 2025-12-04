@@ -1,5 +1,5 @@
 const config = {
-    localStoragePrefix: "test-run-ygo",
-    title: "Yu-Gi-Oh! Opening Ranking",
-    description: "Yu-Gi-Oh! Opening Ranking"
+    localStoragePrefix: "test-run-hoyo",
+    title: "HSR Opening Ranking",
+    description: "HSR Opening Ranking"
 };
