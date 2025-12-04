@@ -1,343 +1,343 @@
 [
     {
         "id": 1,
-        "Anime": "March 7th (Preservation)",
+        "anime": "March 7th (Preservation)",
         "name": "Let's Take a Photo!",
         "video": "https://www.youtube.com/watch?v=lpIgB_IPeTM",
         "mp3": null
     },
     {
         "id": 2,
-        "Anime": "Serval",
+        "anime": "Serval",
         "name": "Let's Take a Photo!",
         "video": "https://www.youtube.com/watch?v=fryhOCgYhNU",
         "mp3": null
     },
     {
         "id": 3,
-        "Anime": "Bailu",
+        "anime": "Bailu",
         "name": "Let's Take a Photo!",
         "video": "https://youtu.be/g2ciwy6nxTY?si=KS3qAOLUbCWtqVE9",
         "mp3": null
     },
     {
         "id": 4,
-        "Anime": "Yanqing",
+        "anime": "Yanqing",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 5,
-        "Anime": "Himeko",
+        "anime": "Himeko",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 6,
-        "Anime": "Gepard",
+        "anime": "Gepard",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 7,
-        "Anime": "Seele",
+        "anime": "Seele",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 8,
-        "Anime": "Jing Yuan",
+        "anime": "Jing Yuan",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 9,
-        "Anime": "Silver Wolf",
+        "anime": "Silver Wolf",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 10,
-        "Anime": "Luocha",
+        "anime": "Luocha",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 11,
-        "Anime": "Blade",
+        "anime": "Blade",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 12,
-        "Anime": "Kafka",
+        "anime": "Kafka",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 13,
-        "Anime": "Dan Heng - Imbibitor Lunae",
+        "anime": "Dan Heng - Imbibitor Lunae",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 14,
-        "Anime": "Fu Xuan",
+        "anime": "Fu Xuan",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 15,
-        "Anime": "Jingliu",
+        "anime": "Jingliu",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 16,
-        "Anime": "Topaz & Numby",
+        "anime": "Topaz & Numby",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 17,
-        "Anime": "Argenti",
+        "anime": "Argenti",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 18,
-        "Anime": "Huohuo",
+        "anime": "Huohuo",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 19,
-        "Anime": "Ruan Mei",
+        "anime": "Ruan Mei",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 20,
-        "Anime": "Dr. Ratio",
+        "anime": "Dr. Ratio",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 21,
-        "Anime": "Black Swan",
+        "anime": "Black Swan",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 22,
-        "Anime": "Sparkle (Hanabi)",
+        "anime": "Sparkle (Hanabi)",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 23,
-        "Anime": "Acheron (Yomi)",
+        "anime": "Acheron (Yomi)",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 24,
-        "Anime": "Aventurine",
+        "anime": "Aventurine",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 25,
-        "Anime": "Robin",
+        "anime": "Robin",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 26,
-        "Anime": "Boothill",
+        "anime": "Boothill",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 27,
-        "Anime": "Firefly",
+        "anime": "Firefly",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 28,
-        "Anime": "Jade",
+        "anime": "Jade",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 29,
-        "Anime": "Yunli",
+        "anime": "Yunli",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 30,
-        "Anime": "Jiaoqiu",
+        "anime": "Jiaoqiu",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 31,
-        "Anime": "Feixiao",
+        "anime": "Feixiao",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 32,
-        "Anime": "Lingsha",
+        "anime": "Lingsha",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 33,
-        "Anime": "Rappa",
+        "anime": "Rappa",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 34,
-        "Anime": "Sunday",
+        "anime": "Sunday",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 35,
-        "Anime": "Fugue",
+        "anime": "Fugue",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 36,
-        "Anime": "The Herta",
+        "anime": "The Herta",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 37,
-        "Anime": "Aglaea",
+        "anime": "Aglaea",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 38,
-        "Anime": "Tribbie",
+        "anime": "Tribbie",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 39,
-        "Anime": "Mydei",
+        "anime": "Mydei",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 40,
-        "Anime": "Castorice",
+        "anime": "Castorice",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 41,
-        "Anime": "Anaxa",
+        "anime": "Anaxa",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 42,
-        "Anime": "Hyacine",
+        "anime": "Hyacine",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 43,
-        "Anime": "Cipher",
+        "anime": "Cipher",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 44,
-        "Anime": "Phainon",
+        "anime": "Phainon",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 45,
-        "Anime": "Hysilens",
+        "anime": "Hysilens",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 46,
-        "Anime": "Cerydra",
+        "anime": "Cerydra",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 47,
-        "Anime": "Evernight",
+        "anime": "Evernight",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 48,
-        "Anime": "Dan Heng - Permansor Terrae",
+        "anime": "Dan Heng - Permansor Terrae",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
     },
     {
         "id": 49,
-        "Anime": "Cyrene",
+        "anime": "Cyrene",
         "name": "Let's Take a Photo!",
         "video": "https://naedist.animemusicquiz.com/nns2yh.webm",
         "mp3": null
